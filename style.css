@@ -51,6 +51,10 @@ h2{
     color: white;
     border-radius: 5px;
 }
+.anchor-btn:hover{
+    color: white;
+    background-image: linear-gradient(blue,green);
+}
 .experience-item{
     width: 40%;
     height: 400px;
