@@ -23,6 +23,9 @@ h2{
     width: 65%;
     float:right;
 }
+.image-outlook{
+    float: left!important;
+}
 .orange-color{
     color: orange;
 }
